@@ -4,19 +4,6 @@
 
 To implement a basic lane detection pipeline using OpenCV by completing missing code segments at specified locations.
 
----
-
-## Learning Objective
-
-* Understand each stage of image processing
-* Learn how to build a complete computer vision pipeline
-* Practice writing code in guided sections
-
-**Important Instruction:**
-👉 Write code **ONLY in places marked as `# Your Code Here`**
-👉 Do NOT modify any other part of the code
-
----
 
 ##  Software Used
 
